@@ -1,4 +1,4 @@
-package com.utkarshchoudhary.travelblogapplication
+package com.utkarshchoudhary.travelblogapplication.util
 
 import android.content.Context
 

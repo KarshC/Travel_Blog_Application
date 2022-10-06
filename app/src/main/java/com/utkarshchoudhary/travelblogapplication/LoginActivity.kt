@@ -10,6 +10,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputLayout
 import com.utkarshchoudhary.travelblogapplication.databinding.ActivityLoginBinding
+import com.utkarshchoudhary.travelblogapplication.util.BlogPreferences
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding
