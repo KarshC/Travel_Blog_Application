@@ -1,4 +1,4 @@
-package com.utkarshchoudhary.travelblogapplication
+package com.utkarshchoudhary.travelblogapplication.ui
 
 import android.content.Intent
 import android.os.Bundle
